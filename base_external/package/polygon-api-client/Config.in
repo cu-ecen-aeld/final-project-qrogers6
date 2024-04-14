@@ -1,0 +1,6 @@
+config BR2_PACKAGE_POLYGON_API_CLIENT
+	bool "polygon-api-client"
+	help
+	  The Polygon.io Stocks API provides REST endpoints that let you query the 
+	  latest market data from all US stock exchanges. You can also find data on 
+	  company financials, stock market holidays, corporate actions, and more.
