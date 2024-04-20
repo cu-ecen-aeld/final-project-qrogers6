@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_FINAL_ASSIGNMENT
+	bool "final-assignment"
+	help
+	  Includes the stock portfolio generator python script

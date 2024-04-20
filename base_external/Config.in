@@ -1,1 +1,2 @@
 source "$BR2_EXTERNAL_assignment_base_PATH/package/polygon-api-client/Config.in"
+source "$BR2_EXTERNAL_assignment_base_PATH/package/final-assignment/Config.in"
